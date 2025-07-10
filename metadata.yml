@@ -1,0 +1,25 @@
+id: emf_ifn_forestables
+emf_type: pipeline
+emf_public: false
+emf_automatized: true
+emf_reproducible: true
+emf_draft: false
+emf_data_type: internal_data
+data_repository: ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_forestables
+model_repository: ''
+nodes:
+- forestables
+authors:
+- mcaceres
+- vgranda
+tags:
+- ifn
+- forest inventories
+links:
+  url_source: https://github.com/emf-creaf/emf_ifn_forestables
+requirements: ''
+description: Generation of IFN data processed by forestables R package
+title: IFN forestables
+date: '2025-07-10'
+date_lastmod: '2025-07-10'
+
