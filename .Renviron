@@ -1,8 +1,0 @@
-IFN_DATA_ROOT="/srv/emf_data/ftp/emf/datasets/ForestInventories/IFN_forestables"
-PIPELINE_PATH="/home/vgranda/emf_pipelines/emf_ifn_forestables"
-
-NTFY_SERVER='https://ntfy-emf.creaf.cat'
-NTFY_AUTH='TRUE'
-NTFY_USERNAME='vgranda'
-NTFY_PASSWORD='Eucalyptus2525'
-NTFY_TOPIC='emf_pipelines'
